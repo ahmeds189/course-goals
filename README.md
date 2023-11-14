@@ -10,6 +10,6 @@ currently working on multinaguage support.
 - tailwindcss
 - i18next
 
-### [demo 🔗](https://www.example.com)
+### [demo 🔗](https://coursesgoals.netlify.app/)
 
 ![preview](/public/capture.png)
